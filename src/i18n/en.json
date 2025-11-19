@@ -1,0 +1,17 @@
+{
+  "site.title": "Relax Game Hub",
+  "site.subtitle": "Cookie Clicker & idle game guides and tools",
+  "nav.home": "Home",
+  "nav.tools": "Tools",
+  "nav.guides": "Guides",
+  "nav.faq": "FAQ",
+  "nav.about": "About",
+  "nav.contact": "Contact",
+  "hero.title": "Relax, Click, Optimize.",
+  "hero.subtitle": "High-quality calculators and guides for Cookie Clicker and idle games. All processing runs locally in your browser.",
+  "hero.cta.tools": "Explore Tools",
+  "hero.cta.guides": "Read Guides",
+  "footer.rights": "All rights reserved.",
+  "footer.developedBy": "Developed by XYH",
+  "disclaimer.localProcessing": "All processing runs locally in your browser. No data is uploaded."
+}

@@ -1,0 +1,17 @@
+{
+  "site.title": "Relax Game Hub",
+  "site.subtitle": "Cookie Clicker 放置类游戏指南与工具",
+  "nav.home": "首页",
+  "nav.tools": "工具",
+  "nav.guides": "攻略",
+  "nav.faq": "常见问题",
+  "nav.about": "关于",
+  "nav.contact": "联系",
+  "hero.title": "轻松放置，科学刷饼干。",
+  "hero.subtitle": "为 Cookie Clicker 与放置类游戏提供高质量计算器与深度指南，所有处理均在浏览器本地完成。",
+  "hero.cta.tools": "浏览工具",
+  "hero.cta.guides": "查看指南",
+  "footer.rights": "保留所有权利。",
+  "footer.developedBy": "由 XYH 开发",
+  "disclaimer.localProcessing": "所有处理均在浏览器本地执行，不上传任何数据。"
+}
